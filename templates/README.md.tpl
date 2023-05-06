@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 📜 Check out my latest blog posts
-{{range rss "blog.melvinvmegen.com/rss.xml" 10}}
+{{range rss "https://blog.melvinvmegen.com/rss.xml" 10}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
