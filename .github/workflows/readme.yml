@@ -8,7 +8,6 @@ on:
 jobs:
   markscribe:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v2
@@ -21,7 +20,6 @@ jobs:
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
-
       - name: Push
         run: |
           date > generated.txt
