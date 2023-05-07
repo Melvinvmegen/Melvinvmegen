@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Melvinvmegen/MVM_Blog](https://github.com/Melvinvmegen/MVM_Blog) -  (today)
-- [Melvinvmegen/MVM_Content_Generator](https://github.com/Melvinvmegen/MVM_Content_Generator) -  (2 weeks ago)
+- [Melvinvmegen/MVM_Blog](https://github.com/Melvinvmegen/MVM_Blog) -  (1 day ago)
+- [Melvinvmegen/MVM_Content_Generator](https://github.com/Melvinvmegen/MVM_Content_Generator) -  (3 weeks ago)
 - [Melvinvmegen/MVM_Finance](https://github.com/Melvinvmegen/MVM_Finance) -  (1 month ago)
 - [Melvinvmegen/studio-pepite](https://github.com/Melvinvmegen/studio-pepite) -  (6 months ago)
 
