@@ -13,8 +13,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [Melvinvmegen/MVM_Blog](https://github.com/Melvinvmegen/MVM_Blog) - Personal blog (today)
-- [Melvinvmegen/MVM_Content](https://github.com/Melvinvmegen/MVM_Content) - [ALPHA] Content generator built with ChatGPT (3 weeks ago)
-- [Melvinvmegen/MVM_Finance](https://github.com/Melvinvmegen/MVM_Finance) - Personal accounting project (1 month ago)
+- [Melvinvmegen/MVM_Finance](https://github.com/Melvinvmegen/MVM_Finance) - Personal accounting project (today)
+- [Melvinvmegen/MVM_Content](https://github.com/Melvinvmegen/MVM_Content) - [ALPHA] Content generator built with ChatGPT (today)
+- [Melvinvmegen/MVM_Portfolio](https://github.com/Melvinvmegen/MVM_Portfolio) - Personal Portfolio (today)
 - [Melvinvmegen/studio-pepite](https://github.com/Melvinvmegen/studio-pepite) - Architect&#39;s portfolio (6 months ago)
 
 #### 🌱 My latest projects
