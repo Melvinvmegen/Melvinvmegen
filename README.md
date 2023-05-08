@@ -12,36 +12,26 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Melvinvmegen/MVM_Blog](https://github.com/Melvinvmegen/MVM_Blog) -  (2 days ago)
-- [Melvinvmegen/MVM_Content_Generator](https://github.com/Melvinvmegen/MVM_Content_Generator) -  (3 weeks ago)
-- [Melvinvmegen/MVM_Finance](https://github.com/Melvinvmegen/MVM_Finance) -  (1 month ago)
-- [Melvinvmegen/studio-pepite](https://github.com/Melvinvmegen/studio-pepite) -  (6 months ago)
+- [Melvinvmegen/MVM_Blog](https://github.com/Melvinvmegen/MVM_Blog) - Personal blog (2 days ago)
+- [Melvinvmegen/MVM_Content](https://github.com/Melvinvmegen/MVM_Content) - [ALPHA] Content generator built with ChatGPT (3 weeks ago)
+- [Melvinvmegen/MVM_Finance](https://github.com/Melvinvmegen/MVM_Finance) - Personal accounting project (1 month ago)
+- [Melvinvmegen/studio-pepite](https://github.com/Melvinvmegen/studio-pepite) - Architect&#39;s portfolio (6 months ago)
 
 #### 🌱 My latest projects
 
-- [Melvinvmegen/MVM_Content_Generator](https://github.com/Melvinvmegen/MVM_Content_Generator) - 
-- [Melvinvmegen/MVM_Finance](https://github.com/Melvinvmegen/MVM_Finance) - 
-- [Melvinvmegen/MVM_Blog](https://github.com/Melvinvmegen/MVM_Blog) - 
+- [Melvinvmegen/MVM_Content](https://github.com/Melvinvmegen/MVM_Content) - [ALPHA] Content generator built with ChatGPT
+- [Melvinvmegen/MVM_Finance](https://github.com/Melvinvmegen/MVM_Finance) - Personal accounting project
+- [Melvinvmegen/MVM_Blog](https://github.com/Melvinvmegen/MVM_Blog) - Personal blog
 - [Melvinvmegen/MVM_Rivalis](https://github.com/Melvinvmegen/MVM_Rivalis) - 
-- [Melvinvmegen/studio-pepite](https://github.com/Melvinvmegen/studio-pepite) - 
-- [Melvinvmegen/MVM_Portfolio](https://github.com/Melvinvmegen/MVM_Portfolio) - 
-
-
-#### 🔭 Latest releases I've contributed to
-
+- [Melvinvmegen/studio-pepite](https://github.com/Melvinvmegen/studio-pepite) - Architect&#39;s portfolio
 
 #### ⭐ Recent Stars
 
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (today)
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023) (3 weeks ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. (2 months ago)
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (6 months ago)
 - [vuejs/router](https://github.com/vuejs/router) - 🚦 The official router for Vue.js (6 months ago)
-- [funkenstudio/sitemap-module-nuxt-3](https://github.com/funkenstudio/sitemap-module-nuxt-3) - Sitemap Module for Nuxt 3 (6 months ago)
-- [humanwhocodes/computer-science-in-javascript](https://github.com/humanwhocodes/computer-science-in-javascript) - Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript.  (6 months ago)
-- [nuxt/content](https://github.com/nuxt/content) - The file-based CMS for your Nuxt application, powered by Markdown and Vue components. (7 months ago)
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort (8 months ago)
-- [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉 (8 months ago)
-- [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS (8 months ago)
 
 #### 💬 Feedback
 
