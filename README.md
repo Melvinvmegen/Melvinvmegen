@@ -28,11 +28,11 @@
 
 #### ⭐ Recent Stars
 
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (today)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (3 days ago)
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023) (4 weeks ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. (2 months ago)
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (6 months ago)
-- [vuejs/router](https://github.com/vuejs/router) - 🚦 The official router for Vue.js (6 months ago)
 
 #### 💬 Feedback
 
