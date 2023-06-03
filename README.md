@@ -3,7 +3,7 @@
 ## 📜 Check out my latest blog posts
 
 - [Debounce](https://blog.melvinvmegen.com/snippets/debounce) (8 months ago)
-- [Random](https://blog.melvinvmegen.com/snippets/random) (8 months ago)
+- [Random](https://blog.melvinvmegen.com/snippets/random) (9 months ago)
 - [Object filtering](https://blog.melvinvmegen.com/snippets/objectfilter) (7 months ago)
 - [Hoisting](https://blog.melvinvmegen.com/posts/javascript/hoisting) (7 months ago)
 - [Amount](https://blog.melvinvmegen.com/snippets/amount) (7 months ago)
