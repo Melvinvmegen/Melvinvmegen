@@ -3,6 +3,14 @@
 My name is Melvin, i'm a web developer primarily focused on the web with javascript.
 I'm currently working at [@alvarum](https://alvarum.com/) building just about everything, thanks to a wonderful stack Express/Fastify, VueJs, NuxtJs.
 
+## 📜 Check out my latest blog posts
+
+- [Debounce](https://blog.melvinvmegen.com/snippets/debounce) (1 year ago)
+- [Random](https://blog.melvinvmegen.com/snippets/random) (1 year ago)
+- [Object filtering](https://blog.melvinvmegen.com/snippets/objectfilter) (1 year ago)
+- [Hoisting](https://blog.melvinvmegen.com/posts/javascript/hoisting) (1 year ago)
+- [Amount](https://blog.melvinvmegen.com/snippets/amount) (1 year ago)
+
 #### 👷 Check out what I'm currently working on
 
 - [Melvinvmegen/MVM_Finance](https://github.com/Melvinvmegen/MVM_Finance) - Personal accounting project (1 day ago)
