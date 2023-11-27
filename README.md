@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is Melvin, i'm a web developer primarily focused on the web with javascript. 
+I'm currently working at [@alvarum](https://alvarum.com/) building just about everything, thanks to a wonderful stack Express/Fastify, VueJs, NuxtJs.
+
 ## 📜 Check out my latest blog posts
 
 - [Debounce](https://blog.melvinvmegen.com/snippets/debounce) (9 months ago)
