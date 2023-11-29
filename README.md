@@ -5,11 +5,11 @@ I'm currently working at [@alvarum](https://alvarum.com/) building just about ev
 
 ## 📜 Check out my latest blog posts
 
-- [Debounce](https://blog.melvinvmegen.com/snippets/debounce) (1 year ago)
-- [Random](https://blog.melvinvmegen.com/snippets/random) (1 year ago)
-- [Object filtering](https://blog.melvinvmegen.com/snippets/objectfilter) (1 year ago)
-- [Hoisting](https://blog.melvinvmegen.com/posts/javascript/hoisting) (1 year ago)
-- [Amount](https://blog.melvinvmegen.com/snippets/amount) (1 year ago)
+- [Object retrieve nested value](https://blog.melvinvmegen.com/snippets/object-nested-value) (9 months ago)
+- [Array min value](https://blog.melvinvmegen.com/snippets/array-min-value) (9 months ago)
+- [Array to directories](https://blog.melvinvmegen.com/snippets/array-directories) (9 months ago)
+- [Array removal](https://blog.melvinvmegen.com/snippets/array-removal) (9 months ago)
+- [Array Flattening](https://blog.melvinvmegen.com/snippets/flatten-array) (10 months ago)
 
 #### 👷 Check out what I'm currently working on
 
