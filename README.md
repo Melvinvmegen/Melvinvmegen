@@ -5,7 +5,7 @@ I'm currently working at [@alvarum](https://alvarum.com/) building just about ev
 
 ## 📜 Check out my latest blog posts
 
-- [Object retrieve nested value](https://blog.melvinvmegen.com/snippets/object-nested-value) (9 months ago)
+- [Object retrieve nested value](https://blog.melvinvmegen.com/snippets/object-nested-value) (10 months ago)
 - [Array min value](https://blog.melvinvmegen.com/snippets/array-min-value) (10 months ago)
 - [Array to directories](https://blog.melvinvmegen.com/snippets/array-directories) (10 months ago)
 - [Array removal](https://blog.melvinvmegen.com/snippets/array-removal) (10 months ago)
