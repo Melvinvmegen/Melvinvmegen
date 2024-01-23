@@ -9,11 +9,11 @@ I'm currently working at [@alvarum](https://alvarum.com/) building just about ev
 - [Array min value](https://blog.melvinvmegen.com/snippets/array-min-value) (11 months ago)
 - [Array to directories](https://blog.melvinvmegen.com/snippets/array-directories) (11 months ago)
 - [Array removal](https://blog.melvinvmegen.com/snippets/array-removal) (11 months ago)
-- [Array Flattening](https://blog.melvinvmegen.com/snippets/flatten-array) (11 months ago)
+- [Array Flattening](https://blog.melvinvmegen.com/snippets/flatten-array) (1 year ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [Melvinvmegen/MVM_Finance](https://github.com/Melvinvmegen/MVM_Finance) - Personal accounting project (5 days ago)
+- [Melvinvmegen/MVM_Finance](https://github.com/Melvinvmegen/MVM_Finance) - Personal accounting project (6 days ago)
 - [Melvinvmegen/MVM_Blog](https://github.com/Melvinvmegen/MVM_Blog) - Personal blog (2 weeks ago)
 - [Melvinvmegen/MVM_Content](https://github.com/Melvinvmegen/MVM_Content) - [ALPHA] Content generator built with ChatGPT (6 months ago)
 - [Melvinvmegen/MVM_Portfolio](https://github.com/Melvinvmegen/MVM_Portfolio) - Personal Portfolio (8 months ago)
