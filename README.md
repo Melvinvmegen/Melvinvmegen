@@ -13,7 +13,7 @@ I'm currently working at [@alvarum](https://alvarum.com/) building just about ev
 
 #### 👷 Check out what I'm currently working on
 
-- [Melvinvmegen/MVM_Finance](https://github.com/Melvinvmegen/MVM_Finance) - Personal accounting project (2 days ago)
+- [Melvinvmegen/MVM_Finance](https://github.com/Melvinvmegen/MVM_Finance) - Personal accounting project (3 days ago)
 - [Melvinvmegen/MVM_Blog](https://github.com/Melvinvmegen/MVM_Blog) - Personal blog (3 months ago)
 - [Melvinvmegen/MVM_Content](https://github.com/Melvinvmegen/MVM_Content) - [ALPHA] Content generator built with ChatGPT (9 months ago)
 - [Melvinvmegen/MVM_Portfolio](https://github.com/Melvinvmegen/MVM_Portfolio) - Personal Portfolio (11 months ago)
