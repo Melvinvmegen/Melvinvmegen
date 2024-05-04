@@ -13,7 +13,6 @@ I'm currently working at [@alvarum](https://alvarum.com/) building just about ev
 
 #### 👷 Check out what I'm currently working on
 
-- [Melvinvmegen/MVM_Finance](https://github.com/Melvinvmegen/MVM_Finance) - Personal accounting project (6 days ago)
 - [Melvinvmegen/MVM_Blog](https://github.com/Melvinvmegen/MVM_Blog) - Personal blog (3 months ago)
 - [Melvinvmegen/MVM_Content](https://github.com/Melvinvmegen/MVM_Content) - [ALPHA] Content generator built with ChatGPT (10 months ago)
 - [Melvinvmegen/MVM_Portfolio](https://github.com/Melvinvmegen/MVM_Portfolio) - Personal Portfolio (1 year ago)
@@ -21,10 +20,10 @@ I'm currently working at [@alvarum](https://alvarum.com/) building just about ev
 #### 🌱 My latest projects
 
 - [Melvinvmegen/MVM_Content](https://github.com/Melvinvmegen/MVM_Content) - [ALPHA] Content generator built with ChatGPT
-- [Melvinvmegen/MVM_Finance](https://github.com/Melvinvmegen/MVM_Finance) - Personal accounting project
 - [Melvinvmegen/MVM_Blog](https://github.com/Melvinvmegen/MVM_Blog) - Personal blog
 - [Melvinvmegen/MVM_Rivalis](https://github.com/Melvinvmegen/MVM_Rivalis) - 
 - [Melvinvmegen/studio-pepite](https://github.com/Melvinvmegen/studio-pepite) - Architect&#39;s portfolio
+- [Melvinvmegen/MVM_Portfolio](https://github.com/Melvinvmegen/MVM_Portfolio) - Personal Portfolio
 
 #### ⭐ Recent Stars
 
