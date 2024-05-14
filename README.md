@@ -15,7 +15,6 @@ I'm currently working at [@alvarum](https://alvarum.com/) building just about ev
 
 - [Melvinvmegen/MVM_Blog](https://github.com/Melvinvmegen/MVM_Blog) - Personal blog (4 months ago)
 - [Melvinvmegen/MVM_Content](https://github.com/Melvinvmegen/MVM_Content) - [ALPHA] Content generator built with ChatGPT (10 months ago)
-- [Melvinvmegen/MVM_Portfolio](https://github.com/Melvinvmegen/MVM_Portfolio) - Personal Portfolio (1 year ago)
 
 #### 🌱 My latest projects
 
