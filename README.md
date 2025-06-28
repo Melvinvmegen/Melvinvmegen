@@ -13,7 +13,7 @@ I'm currently working at [@alvarum](https://alvarum.com/) building just about ev
 
 #### 👷 Check out what I'm currently working on
 
-- [Melvinvmegen/MVM_Blog](https://github.com/Melvinvmegen/MVM_Blog) - Personal blog (today)
+- [Melvinvmegen/MVM_Blog](https://github.com/Melvinvmegen/MVM_Blog) - Personal blog (1 day ago)
 
 #### 🌱 My latest projects
 
