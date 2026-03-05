@@ -13,7 +13,7 @@ I'm currently working at [@alvarum](https://alvarum.com/) building just about ev
 
 #### 👷 Check out what I'm currently working on
 
-- [Melvinvmegen/js-core](https://github.com/Melvinvmegen/js-core) -  (5 months ago)
+- [Melvinvmegen/js-core](https://github.com/Melvinvmegen/js-core) -  (6 months ago)
 - [Melvinvmegen/MVM_Blog](https://github.com/Melvinvmegen/MVM_Blog) - Personal blog (6 months ago)
 
 #### 🌱 My latest projects
