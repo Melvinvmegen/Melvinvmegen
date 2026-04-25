@@ -13,7 +13,7 @@ I'm currently working at [@alvarum](https://alvarum.com/) building just about ev
 
 #### 👷 Check out what I'm currently working on
 
-- [Melvinvmegen/MVM_Portfolio](https://github.com/Melvinvmegen/MVM_Portfolio) - Personal Portfolio (5 days ago)
+- [Melvinvmegen/MVM_Portfolio](https://github.com/Melvinvmegen/MVM_Portfolio) - Personal Portfolio (6 days ago)
 - [Melvinvmegen/js-core](https://github.com/Melvinvmegen/js-core) -  (7 months ago)
 - [Melvinvmegen/MVM_Blog](https://github.com/Melvinvmegen/MVM_Blog) - Personal blog (7 months ago)
 
@@ -29,7 +29,7 @@ I'm currently working at [@alvarum](https://alvarum.com/) building just about ev
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (7 months ago)
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android  (2 years ago)
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (2 years ago)
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (2 years ago)
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (3 years ago)
 
 #### 💬 Feedback
 
