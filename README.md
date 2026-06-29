@@ -13,7 +13,7 @@ I'm currently working at [@alvarum](https://alvarum.com/) building just about ev
 
 #### 👷 Check out what I'm currently working on
 
-- [Melvinvmegen/MVM_Blog](https://github.com/Melvinvmegen/MVM_Blog) - Personal blog (1 week ago)
+- [Melvinvmegen/MVM_Blog](https://github.com/Melvinvmegen/MVM_Blog) - Personal blog (2 weeks ago)
 - [Melvinvmegen/MVM_Portfolio](https://github.com/Melvinvmegen/MVM_Portfolio) - Personal Portfolio (2 months ago)
 - [Melvinvmegen/js-core](https://github.com/Melvinvmegen/js-core) -  (9 months ago)
 
@@ -26,7 +26,7 @@ I'm currently working at [@alvarum](https://alvarum.com/) building just about ev
 
 #### ⭐ Recent Stars
 
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (2 months ago)
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (3 months ago)
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (9 months ago)
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android  (2 years ago)
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (3 years ago)
