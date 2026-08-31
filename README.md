@@ -14,7 +14,7 @@ I'm currently working at [@alvarum](https://alvarum.com/) building just about ev
 #### 👷 Check out what I'm currently working on
 
 - [Melvinvmegen/MVM_Monitoring](https://github.com/Melvinvmegen/MVM_Monitoring) -  (1 week ago)
-- [Melvinvmegen/MVM_Blog](https://github.com/Melvinvmegen/MVM_Blog) - Personal blog (1 week ago)
+- [Melvinvmegen/MVM_Blog](https://github.com/Melvinvmegen/MVM_Blog) - Personal blog (2 weeks ago)
 - [Melvinvmegen/MVM_Portfolio](https://github.com/Melvinvmegen/MVM_Portfolio) - Personal Portfolio (4 months ago)
 - [Melvinvmegen/js-core](https://github.com/Melvinvmegen/js-core) -  (11 months ago)
 
@@ -28,7 +28,7 @@ I'm currently working at [@alvarum](https://alvarum.com/) building just about ev
 #### ⭐ Recent Stars
 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (5 months ago)
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (11 months ago)
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (1 year ago)
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android  (2 years ago)
 - [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (3 years ago)
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (3 years ago)
