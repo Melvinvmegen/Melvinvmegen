@@ -8,8 +8,8 @@ I'm currently working at [@alvarum](https://alvarum.com/) building just about ev
 - [Insertion sort](https://blog.melvinvmegen.com/posts/javascript/insertion-sort) (1 year ago)
 - [Selection Sort](https://blog.melvinvmegen.com/posts/javascript/selection-sort) (1 year ago)
 - [Bubble sort](https://blog.melvinvmegen.com/posts/javascript/bubble-sort) (1 year ago)
-- [Binary Search](https://blog.melvinvmegen.com/posts/javascript/binary-search) (1 year ago)
-- [Linear Search](https://blog.melvinvmegen.com/posts/javascript/linear-search) (1 year ago)
+- [Binary Search](https://blog.melvinvmegen.com/posts/javascript/binary-search) (2 years ago)
+- [Linear Search](https://blog.melvinvmegen.com/posts/javascript/linear-search) (2 years ago)
 
 #### 👷 Check out what I'm currently working on
 
