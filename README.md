@@ -6,8 +6,8 @@ I'm currently working at [@alvarum](https://alvarum.com/) building just about ev
 ## 📜 Check out my latest blog posts
 
 - [Insertion sort](https://blog.melvinvmegen.com/posts/javascript/insertion-sort) (1 year ago)
-- [Selection Sort](https://blog.melvinvmegen.com/posts/javascript/selection-sort) (1 year ago)
-- [Bubble sort](https://blog.melvinvmegen.com/posts/javascript/bubble-sort) (1 year ago)
+- [Selection Sort](https://blog.melvinvmegen.com/posts/javascript/selection-sort) (2 years ago)
+- [Bubble sort](https://blog.melvinvmegen.com/posts/javascript/bubble-sort) (2 years ago)
 - [Binary Search](https://blog.melvinvmegen.com/posts/javascript/binary-search) (2 years ago)
 - [Linear Search](https://blog.melvinvmegen.com/posts/javascript/linear-search) (2 years ago)
 
