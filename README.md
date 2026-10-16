@@ -15,7 +15,7 @@ I'm currently working at [@alvarum](https://alvarum.com/) building just about ev
 
 - [Melvinvmegen/MVM_Blog](https://github.com/Melvinvmegen/MVM_Blog) - Personal blog (1 month ago)
 - [Melvinvmegen/MVM_Monitoring](https://github.com/Melvinvmegen/MVM_Monitoring) -  (1 month ago)
-- [Melvinvmegen/MVM_Portfolio](https://github.com/Melvinvmegen/MVM_Portfolio) - Personal Portfolio (5 months ago)
+- [Melvinvmegen/MVM_Portfolio](https://github.com/Melvinvmegen/MVM_Portfolio) - Personal Portfolio (6 months ago)
 
 #### 🌱 My latest projects
 
